@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expanding my skills in **HTML, CSS**, **JavaScript and **Data Structures and Algorithms (DSA)**.  <br>🤝 I’m looking for help with **DSA problem-solving techniques**.  <br>🌱 I’m currently learning **Web development** and  will soon be uploading projects in **Python** and **Android App Development** after I complete my Web development journey.
+🔭 I’m currently working on expanding my skills in **HTML, CSS**, **JavaScript** and **Data Structures and Algorithms (DSA)**.  <br>🤝 I’m looking for help with **DSA problem-solving techniques**.  <br>🌱 I’m currently learning **Web development** and  will soon be uploading projects in **Python** and **Android App Development** after I complete my Web development journey.
 
 
 ## 🌐 Socials:
