@@ -12,7 +12,7 @@ jobs:
         with:
           user: Pankaj254
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
