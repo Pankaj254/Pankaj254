@@ -36,7 +36,7 @@
 ## 📈 Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pankaj254/Pankaj254/main/metrics.plugin.calendar.full.svg" />
+  <img src="https://raw.githubusercontent.com/Pankaj254/Pankaj254/main/github-metrics.svg" />
 </p>
 
 ---
